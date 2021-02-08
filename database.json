@@ -1,0 +1,20 @@
+{
+  "vincular_arquiteto": [
+    {
+      "id": 1,
+      "gestor_n1": "Fulano",
+      "gestor_n2": "Beutrano",
+      "numero_matricula_arquiteto": "Cicrano",
+      "nome_arquiteto": "Douglas",
+      "epico_jira": "ARQ_123_"
+    },
+    {
+      "gestor_n1": "Odin",
+      "gestor_n2": "Thor",
+      "numero_matricula_arquiteto": "T734077",
+      "nome_arquiteto": "Adler",
+      "epico_jira": "Marvel",
+      "id": 2
+    }
+  ]
+}
